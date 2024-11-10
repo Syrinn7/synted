@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "631638776463",
+    "project_id": "tpdevmobileatouo",
+    "storage_bucket": "tpdevmobileatouo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:631638776463:android:c22c9a2405c65d756faefa",
+        "android_client_info": {
+          "package_name": "com.vinted.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASmdhkXLoV2xtdxtc9oH-9wAc6OAvVRcE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
