@@ -1,16 +1,28 @@
-# vinted_syrine
+# Synted - Application Flutter - Syrine ATOUI
 
-A new Flutter project.
+## Description
+Synted est une application Flutter de gestion d'achats en ligne. Elle permet à l'utilisateur de :
+- Se connecter/déconnecter.
+- Ajouter des vêtements au panier.
+- Visualiser et gérer les articles dans le panier.
+- Ajouter de nouveaux vêtements avec des informations telles que la catégorie, la marque, le prix, etc.
 
-## Getting Started
+## Prérequis
+- **Flutter** installé sur votre machine : [Installation de Flutter](https://flutter.dev/docs/get-started/install)
+- Un compte **Firebase** pour la gestion des utilisateurs et la base de données.
 
-This project is a starting point for a Flutter application.
+## Installation
 
-A few resources to get you started if this is your first Flutter project:
+1. Clonez le projet :
+   git clone https://github.com/Syrinn7/synted.git
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+2. Lancez l'application sur un  un appareil (en selectionnant chrome):
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+flutter run
+
+## Fonctionnalités
+
+Authentification avec Firebase (connexion/déconnexion).
+Affichage des produits dans un panier.
+Ajout d'articles de vêtements avec image, marque, prix, etc.
+Stockage des images sur Firebase Storage.
